@@ -21,7 +21,7 @@ First Attempt:
 
 <img width="836" alt="Original_Accuracy" src="https://user-images.githubusercontent.com/99457275/178532780-0a20c37e-fee0-4369-9cf6-09d3210272e4.png">
 
-With Optimiztion:
+With Optimization:
 
 <img width="831" alt="Accuracy" src="https://user-images.githubusercontent.com/99457275/178532257-d3f4c9e2-bb32-4b28-9c4e-cbc3bb62f013.png">
 
