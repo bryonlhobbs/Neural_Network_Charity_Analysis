@@ -18,9 +18,11 @@ The initial layers were set up as follows:
 The number of nodes is high, but the belief was that it would make the model compute faster and more accurately.  The speed was certainly realized, but the accuracy was not.  I used a "relu" function to help elimiate any possibility of negative numbers throuwing off the analysis.
 
 First Attempt:
+
 <img width="836" alt="Original_Accuracy" src="https://user-images.githubusercontent.com/99457275/178532780-0a20c37e-fee0-4369-9cf6-09d3210272e4.png">
 
 With Optimiztion:
+
 <img width="831" alt="Accuracy" src="https://user-images.githubusercontent.com/99457275/178532257-d3f4c9e2-bb32-4b28-9c4e-cbc3bb62f013.png">
 
 Even with multiple attempts at optimization, nothing improved the results. I tried removing the "SPECIAL_CONSIDERATIONS" column, as well as adding an extra hidden layer with 10 nodes.  I also tried a different activation function, "sigmoid", to see if it would improve the results.  Unfortunately, while the loss shrunk considerably, the accuracy slightly decreased.
